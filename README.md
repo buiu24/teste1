@@ -1,1 +1,1 @@
-git clone https://github.com/teste1/teste1.github.io.git
+https://github.com/teste1/teste1.github.io.git
